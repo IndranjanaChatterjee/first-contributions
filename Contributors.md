@@ -16,6 +16,7 @@
 - [Conor Kirby](https://gitbub.com/ckirby19)
 - [Akshatha](https://github.com/nayakan)
 - [Alexis L](https://github.com/akelee)
+- [Indranjana Chatterjee](https://github.com/IndranjanaChatterjee)
 - [Vinay Kumar](https://github.com/n4ryn)
 - [Nilanshu Yadav](https://github.com/Nilanshuyadav)
 - [Chen Zhang](https://github.com/leviosacz)
